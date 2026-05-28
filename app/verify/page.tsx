@@ -38,13 +38,7 @@ function VerifyPageContent() {
       <div className="max-w-sm w-full bg-white rounded-2xl shadow-md p-8">
         {/* Logo */}
         <div className="flex justify-center mb-6">
-          <Image
-            src="/new-logo.png"
-            alt="Assistance Journal"
-            width={254}
-            height={140}
-            className="h-9 w-auto"
-          />
+          <span className="text-2xl font-bold" style={{ color: '#1F4E79' }}>Assistance Journal</span>
         </div>
 
         {/* Icon */}
@@ -96,7 +90,7 @@ function VerifyPageContent() {
 
         {/* Footer */}
         <p className="text-xs text-gray-400 text-center mt-6">
-          Secured by AI benefits
+          Secured by Assistance Journal
         </p>
       </div>
     </div>
