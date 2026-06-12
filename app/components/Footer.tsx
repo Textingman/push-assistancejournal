@@ -74,7 +74,10 @@ export default function Footer() {
               support@assistancejournal.com
             </p>
             <p className="mt-2" style={{ color: '#BFDBFE' }}>
-              United States
+              6102 Cherrylawn Cir, Austin, TX 78723
+            </p>
+            <p className="mt-2" style={{ color: '#BFDBFE' }}>
+              (512) 998-5886
             </p>
           </div>
         </div>
