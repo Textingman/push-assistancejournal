@@ -81,7 +81,7 @@ export default function SignupPage() {
           ) : (
             <>
               <div className="mb-8">
-                <h2 className="text-2xl font-bold mb-2" style={{ color: '#1F2937' }}>Connect with Your Assistance Journal</h2>
+                <h2 className="text-2xl font-bold mb-2" style={{ color: '#1F2937' }}>Get Started with Assistance Journal</h2>
                 <p style={{ color: '#6B7280' }}>
                   Fill out this form and our AI agent will provide you with unbiased, personalized benefits education — completely free. No salespeople will contact you.
                 </p>
